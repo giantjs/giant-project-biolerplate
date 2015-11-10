@@ -1,2 +1,4 @@
-# giant-project-boilerplate
-Project boilerplate for GiantJS-based applications
+Giant Project
+=============
+
+This is your brand-new Giant project.
