@@ -3,4 +3,7 @@ Giant Project
 
 This is your brand-new Giant project.
 
-To get started, look into the `application` module.
+To set things up:
+
+1. Complete setup instructions for modules `shared` & `application`.
+2. As you go along, add new modules to `module-sequence.dat` in the order in which they would be built.
