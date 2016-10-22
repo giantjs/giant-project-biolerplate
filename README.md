@@ -3,6 +3,8 @@ Giant Project
 
 This is your brand-new Giant project.
 
+Stability: **UNSTABLE** (In development)
+
 To set things up:
 
 1. Complete setup instructions for modules `shared` & `application`.
